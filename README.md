@@ -1,3 +1,3 @@
-# Extractor Sudok From Image
+# Extractor Sudoku From Image
 ## How to use
 python Sudoku.py image
